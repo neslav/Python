@@ -15,3 +15,5 @@ dict_items={'age':33,
             'location': {'country':'Turkey',
                         'City':'Antalia'}}
 print(type(dict_items), dict_items['location']['City'])
+
+City
