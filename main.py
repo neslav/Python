@@ -53,7 +53,4 @@
 sli = slice(2, 1500, )
 print(sli)
 
-s1='Котопульта'
-s2='пульт'
-i=0
-while i<
+City
