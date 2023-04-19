@@ -37,4 +37,3 @@
 sli = slice(2, 1500, )
 print(sli)
 
-City
