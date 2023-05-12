@@ -34,6 +34,9 @@
 #
 # sequence
 
-sli = slice(2, 1500, )
-print(sli)
+# sli = slice(2, 1500, )
+# print(sli)
 
+N=10
+data=true
+while data
