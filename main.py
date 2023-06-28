@@ -35,8 +35,37 @@
 # sequence
 
 # sli = slice(2, 1500, )
-# print(sli)
+# # print(sli)
+#
+# N=10
+# data=true
+# while data
 
-N=10
-data=true
-while data
+# profits = [-12, 20, 2098, 12, -2222]
+#
+# # найти минимальное неотрицательное есмли нет то 0
+#
+# min_item = None
+#
+# # for item = None
+#
+# for item in profits:
+#     if item > 0 and (min_item is None or item < min_item)
+#         min_item = item
+#
+# if min_item is None:
+#     min_item = 0
+#
+# Print (min_item)
+
+popils = ['oleg', 'ira', 'igor', 'Anna']
+
+couples = []
+
+i = 0
+for person in popils:
+    if i % 2 == 0:
+        couples.append([popils[i], popils[i+1]])
+    i = i + 1
+
+print(couples)
